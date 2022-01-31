@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sajadborhani/netflix-clone.git/static/css/main.dcc00f02.css",
+    "main.js": "/sajadborhani/netflix-clone.git/static/js/main.4823f962.js",
+    "static/js/787.e40e447f.chunk.js": "/sajadborhani/netflix-clone.git/static/js/787.e40e447f.chunk.js",
+    "index.html": "/sajadborhani/netflix-clone.git/index.html",
+    "main.dcc00f02.css.map": "/sajadborhani/netflix-clone.git/static/css/main.dcc00f02.css.map",
+    "main.4823f962.js.map": "/sajadborhani/netflix-clone.git/static/js/main.4823f962.js.map",
+    "787.e40e447f.chunk.js.map": "/sajadborhani/netflix-clone.git/static/js/787.e40e447f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc00f02.css",
+    "static/js/main.4823f962.js"
+  ]
+}
